@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi | Çkemi | Hola | Merhaba 👋
 
 Thanks for reading my profile. My name is Orges. I have two years of experience as a software engineer at Smarkets, a sports trading company, where I significantly enhanced my technical skills, particularly in Python, system design, and various tools such as AWS, Grafana, and Kafka. Additionally, I independently and as part of a team developed fully functional applications.
 
