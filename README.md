@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Thanks for reading my profile. My name is Orges. I have two years of experience as a software engineer at Smarkets, a sports trading company, where I significantly improved my technical abilities especially in Python, System Design, and different tooling like AWS, Grafana, Kafka etc. 
+
+- Studied Computer Science at University of Edinburgh and graduated in 2022 with a first degree.
+- I've operated my own marketing agency, gaining skills in advertising and business management.
+- I'm very passionate about health and fitness; I make it a point to regularly visit the gym and also learn new sports - currently I am doing jiu-jitsu. 
+- I highly value learning and am continually seeking to enhance my understanding and skills. Currently learning more about AI, Maths, and a bit of Physics.
+- You can access my CV [here](https://gist.github.com/orgesskura/10ad782d98e034605c322a2ff6375599)
+
+
+
 <!--
 **orgesskura/orgesskura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
