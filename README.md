@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Thanks for reading my profile. My name is Orges. I have two years of experience as a software engineer at Smarkets, a sports trading company, where I significantly improved my technical abilities especially in Python, System Design, and different tooling like AWS, Grafana, Kafka etc. 
+Thanks for reading my profile. My name is Orges. I have two years of experience as a software engineer at Smarkets, a sports trading company, where I significantly enhanced my technical skills, particularly in Python, system design, and various tools such as AWS, Grafana, and Kafka. Additionally, I independently and as part of a team developed fully functional applications.
 
-- Studied Computer Science at University of Edinburgh and graduated in 2022 with a first degree.
-- I've operated my own marketing agency, gaining skills in advertising and business management.
-- I'm very passionate about health and fitness; I make it a point to regularly visit the gym and also learn new sports - currently I am doing jiu-jitsu. 
-- I highly value learning and am continually seeking to enhance my understanding and skills. Currently learning more about AI, Maths, and a bit of Physics.
+- 📖 Studied Computer Science at University of Edinburgh and graduated in 2022 with a first degree.
+- 🏢 Operated a dental marketing agency for a bit more than a year, gaining skills in advertising and business management.  I generated appointments for dental practices, helping them to scale effectively.
+- 💪 I'm very passionate about health and fitness; I make it a point to regularly visit the gym and also learn new sports - currently I am doing jiu-jitsu. 
+- 🤖 I highly value learning and am continually seeking to enhance my understanding and skills. Currently learning more about Rust, AI, Maths, and a bit of Physics.
 - You can access my CV [here](https://gist.github.com/orgesskura/10ad782d98e034605c322a2ff6375599)
 
 
