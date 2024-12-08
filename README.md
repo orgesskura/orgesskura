@@ -4,7 +4,7 @@ Thanks for reading my profile. My name is Orges. I have two years of experience 
 
 - 📖 Studied Computer Science at University of Edinburgh and graduated in 2022 with a first degree.
 - 🏢 Operated a dental marketing agency for a bit more than a year, gaining skills in advertising and business management.  I generated appointments for dental practices, helping them to scale effectively.
-- 🤖 Worked on several AI projects including an AI podcast search engine.
+- 🤖 Worked on several AI projects, including an IoT application using wearable sensors for human activity recognition and an AI podcast search engine.
 - 💪 I'm very passionate about health and fitness; I make it a point to regularly visit the gym and also learn new sports - currently I am doing jiu-jitsu. 
 - 👨🏻‍💻 I highly value learning and am continually seeking to enhance my understanding and skills. Currently learning more about Rust, AI, Maths, and a bit of Physics.
 - You can access my CV [here](https://drive.google.com/file/d/1vaK1cQZiAGTQwgbDlgbI1ErhvhCYTGN9/view?usp=sharing)
