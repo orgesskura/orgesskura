@@ -7,7 +7,7 @@ My name is Orges. I have two years of experience as a software engineer at Smark
 - 🤖 Worked on several AI projects, including an IoT application using wearable sensors for human activity recognition and an AI podcast search engine.
 - 💪 I'm very passionate about health and fitness; Regularly visit the gym and learn new sports - currently doing jiu-jitsu. 
 - 👨🏻‍💻 Highly value learning. Currently learning more about Rust, AI, Maths, and a bit of Physics.
-- You can access my CV [here](https://drive.google.com/file/d/1LWSNto3NjBLlqqDPkX1ezx9mETscjC6X/view?usp=sharing)
+- You can access my CV [here](https://drive.google.com/file/d/13u7uXOojJcc7mTiNUb3LrtJyh0E4Hp2M/view?usp=sharing)
 
 
 
