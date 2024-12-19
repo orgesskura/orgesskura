@@ -5,7 +5,7 @@ My name is Orges. I have two years of experience as a software engineer at Smark
 - 📖 Studied Computer Science at University of Edinburgh and graduated in 2022 with a first degree.
 - 🏢 Ran a dental marketing agency for a bit more than a year.  I generated appointments for dental practices, helping them to scale effectively.
 - 🤖 Worked on several AI projects, including an IoT application using wearable sensors for human activity recognition and an AI podcast search engine.
-- 💪 I'm very passionate about health and fitness; Regularly visit the gym and learn new sports - currently I am doing jiu-jitsu. 
+- 💪 I'm very passionate about health and fitness; Regularly visit the gym and learn new sports - currently doing jiu-jitsu. 
 - 👨🏻‍💻 Highly value learning. Currently learning more about Rust, AI, Maths, and a bit of Physics.
 - You can access my CV [here](https://drive.google.com/file/d/1LWSNto3NjBLlqqDPkX1ezx9mETscjC6X/view?usp=sharing)
 
