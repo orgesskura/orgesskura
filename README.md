@@ -1,6 +1,6 @@
 ## Hi | Çkemi | Hola | Merhaba 👋
 
-My name is Orges. I have two years of experience as a software engineer at Smarkets, a sports trading company, where I primarily worked in Python and Rust creating low-latency systems that can ingest and process huge amounts of data.
+I have two years of experience as a software engineer at Smarkets, a sports trading company, where I primarily worked in Python and Rust creating low-latency systems that can ingest and process huge amounts of data.
 
 - 📖 Studied Computer Science at University of Edinburgh and graduated in 2022 with a first-class degree.
 - 🏢 Ran a dental marketing agency for a bit more than a year.  I generated appointments for dental practices, helping them to scale effectively.
