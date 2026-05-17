@@ -1,12 +1,12 @@
 ## Hi | Çkemi | Hola | Merhaba 👋
 
-I have more than 3 years of experience as a software engineer at Smarkets, a sports trading company, where I primarily worked in Rust and Python creating low-latency systems that can ingest and process huge amounts of data.
+I currently work as a Senior Low Latency Software Engineer at Onyx Capital Group.
 
 - 📖 Studied Computer Science at University of Edinburgh and graduated in 2022 with a first-class degree.
 - 🏢 Ran a dental marketing agency for a bit more than a year.  I generated appointments for dental practices, helping them to scale effectively.
 - 🤖 Worked on several AI projects, including an IoT application using wearable sensors for human activity recognition and an AI podcast search engine.
 - 💪 Regularly visit the gym and learn new sports - currently doing jiu-jitsu. 
-- 👨🏻‍💻 Currently learning more on AI, Maths, and a bit of Physics.
+- 👨🏻‍💻 Currently learning and working on low latency applications and distributed systems.
 
 
 
