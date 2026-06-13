@@ -1,6 +1,6 @@
 ## Hi | Çkemi | Hola | Merhaba 👋
 
-🤖 I currently work as a Senior Low Latency Software Engineer at Onyx Capital Group.
+🤖 Currently work as a Senior Low Latency Software Engineer at Onyx Capital Group.
 
 👨🏻‍💻 Interested in low latency engineering, distributed systems, and performance optimization.
 
