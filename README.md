@@ -1,5 +1,14 @@
 ## Hi | Çkemi | Hola | Merhaba 👋
 
+🤖 I currently work as a Senior Low Latency Software Engineer at Onyx Capital Group.
+
+👨🏻‍💻 Interested in low latency engineering, distributed systems, and performance optimization.
+
+💪 Sport Enthusiast outside of work.
+
+
+
+<!--
 I currently work as a Senior Low Latency Software Engineer at Onyx Capital Group.
 
 - 📖 Studied Computer Science at University of Edinburgh and graduated in 2022 with a first-class degree.
@@ -7,20 +16,4 @@ I currently work as a Senior Low Latency Software Engineer at Onyx Capital Group
 - 🤖 Worked on several AI projects, including an IoT application using wearable sensors for human activity recognition and an AI podcast search engine.
 - 💪 Regularly visit the gym and learn new sports - currently doing jiu-jitsu. 
 - 👨🏻‍💻 Currently working on and learning more about low latency applications and distributed systems.
-
-
-
-<!--
-**orgesskura/orgesskura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
